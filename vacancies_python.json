@@ -1,0 +1,81 @@
+[
+  {
+    "title": "Python Developer",
+    "keywords": [
+      "python",
+      "python developer",
+      "python engineer",
+      "software engineer",
+      "backend developer",
+      "backend engineer",
+      "web developer",
+      "application development",
+      "software development",
+      "backend development",
+
+      "django",
+      "django rest framework",
+      "fastapi",
+      "flask",
+      "async python",
+      "asynchronous programming",
+      "asyncio",
+      "uvicorn",
+      "gunicorn",
+      "wsgi",
+      "asgi",
+
+      "rest api",
+      "api development",
+      "api design",
+      "api integration",
+      "microservices",
+      "service oriented architecture",
+      "backend services",
+
+      "sql",
+      "postgresql",
+      "mysql",
+      "sqlite",
+      "nosql",
+      "mongodb",
+      "redis",
+      "database design",
+      "database development",
+      "data modeling",
+      "orm",
+      "sqlalchemy",
+      "django orm",
+
+      "unit testing",
+      "pytest",
+      "test driven development",
+      "debugging",
+      "logging",
+      "code review",
+
+      "git",
+      "github",
+      "version control",
+      "linux",
+      "bash",
+      "shell scripting",
+
+      "docker",
+      "containerization",
+      "kubernetes",
+      "cloud computing",
+      "aws",
+      "azure",
+      "deployment",
+
+      "ci cd",
+      "continuous integration",
+      "continuous delivery",
+
+      "agile",
+      "scrum",
+      "software development lifecycle"
+    ]
+  }
+]

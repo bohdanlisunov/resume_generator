@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Node.js Developer",
+    "keywords": [
+      "node.js",
+      "nodejs",
+      "node.js developer",
+      "node.js engineer",
+      "backend developer",
+      "backend engineer",
+      "javascript developer",
+      "typescript developer",
+      "software engineer",
+
+      "javascript",
+      "typescript",
+      "ecmascript",
+      "es6",
+      "asynchronous programming",
+      "event driven architecture",
+
+      "nest.js",
+      "nestjs",
+      "express.js",
+      "fastify",
+      "node frameworks",
+
+      "react",
+      "react.js",
+      "react developer",
+      "frontend development",
+      "ui development",
+
+      "html",
+      "html5",
+      "css",
+      "css3",
+      "responsive design",
+
+      "rest api",
+      "api development",
+      "api integration",
+      "graphql",
+      "microservices",
+      "web services",
+
+      "json",
+      "axios",
+      "fetch api",
+
+      "mongodb",
+      "mongoose",
+      "postgresql",
+      "mysql",
+      "database design",
+      "database optimization",
+      "sql",
+      "nosql",
+
+      "redis",
+      "caching",
+
+      "authentication",
+      "jwt",
+      "oauth",
+      "authorization",
+
+      "websockets",
+      "real time applications",
+
+      "git",
+      "github",
+      "gitlab",
+      "version control",
+
+      "docker",
+      "containerization",
+      "kubernetes",
+
+      "aws",
+      "cloud deployment",
+
+      "ci cd",
+      "continuous integration",
+      "continuous delivery",
+      "deployment",
+
+      "unit testing",
+      "integration testing",
+      "jest",
+      "mocha",
+      "chai",
+      "automated testing",
+
+      "agile",
+      "scrum",
+      "kanban",
+      "software development lifecycle"
+    ]
+  }
+]

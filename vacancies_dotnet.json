@@ -1,0 +1,96 @@
+[
+  {
+    "title": ".NET Developer",
+    "keywords": [
+      ".net",
+      ".net developer",
+      ".net engineer",
+      "dotnet",
+      "c#",
+      "c sharp",
+      "software engineer",
+      "backend developer",
+      "full stack developer",
+
+      ".net framework",
+      ".net core",
+      ".net 6",
+      ".net 7",
+      "asp.net",
+      "asp.net core",
+      "asp.net mvc",
+      "asp.net web api",
+
+      "entity framework",
+      "entity framework core",
+      "linq",
+      "dependency injection",
+
+      "rest api",
+      "api development",
+      "web services",
+      "microservices",
+
+      "react",
+      "react.js",
+      "frontend development",
+      "javascript",
+      "typescript",
+
+      "html",
+      "html5",
+      "css",
+      "css3",
+      "responsive design",
+
+      "sql",
+      "sql server",
+      "microsoft sql server",
+      "postgresql",
+      "database design",
+      "database optimization",
+
+      "redis",
+      "caching",
+
+      "authentication",
+      "authorization",
+      "jwt",
+      "oauth",
+
+      "git",
+      "github",
+      "gitlab",
+      "version control",
+
+      "docker",
+      "containerization",
+      "kubernetes",
+
+      "azure",
+      "azure devops",
+      "cloud computing",
+      "cloud deployment",
+
+      "ci cd",
+      "continuous integration",
+      "continuous delivery",
+      "deployment",
+
+      "unit testing",
+      "integration testing",
+      "xunit",
+      "nunit",
+      "automated testing",
+
+      "design patterns",
+      "clean architecture",
+      "solid principles",
+
+      "agile",
+      "scrum",
+      "kanban",
+      "software development lifecycle"
+    ]
+  }
+]

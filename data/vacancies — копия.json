@@ -1,0 +1,117 @@
+[
+[
+
+  {
+
+    "title": "Full Stack Developer",
+
+    "keywords": [
+
+      "javascript",
+
+      "react",
+
+      "node.js",
+
+      "rest api",
+
+      "full stack development",
+
+      "databases",
+
+      "git"
+
+    ]
+
+  },
+
+  {
+
+    "title": "WordPress Developer",
+
+    "keywords": [
+
+      "wordpress",
+
+      "php",
+
+      "custom themes",
+
+      "plugins",
+
+      "woocommerce",
+
+      "html css",
+
+      "seo optimization"
+
+    ]
+
+  },
+
+  {
+
+    "title": "Front End Developer",
+
+    "keywords": [
+
+      "html",
+
+      "css",
+
+      "javascript",
+
+      "react",
+
+      "responsive design",
+
+      "ui ux",
+
+      "cross browser testing"
+
+    ]
+
+  },
+
+  {
+
+    "title": "Backend Developer",
+
+    "keywords": [
+
+      "python",
+
+      "node.js",
+
+      "databases",
+
+      "api development",
+
+      "authentication",
+
+      "docker",
+
+      "microservices"
+
+    ]
+
+  }
+
+]
+  {
+    "title": "Java Developer",
+    "keywords": ["java", "spring boot", "hibernate", "rest api", "microservices", "sql", "maven"]
+  },
+  {
+    "title": "Digital Marketer",
+    "keywords": ["ga4", "gtm", "google ads", "performance marketing", "seo", "conversion optimization", "data analysis"]
+  },
+  {
+    "title": "AI/ML Developer",
+    "keywords": ["python", "machine learning", "pandas", "numpy", "data processing", "neural networks", "scikit-learn"]
+  },
+  {
+    "title": " .NET Developer",
+    "keywords": [".net core", "c#", "asp.net", "entity framework", "sql server", "rest api", "azure"]
+  }
+]

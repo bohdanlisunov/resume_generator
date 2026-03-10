@@ -1,0 +1,32 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Google credentials та токени (ВСЕ)
+.env
+*.env
+credentials*.json
+credentials/
+oauth_credentials.json
+client_secret*.json
+token.json
+token.pickle
+save_token.py
+get_token.py
+storage_state.json
+
+# Особисті дані
+data/base_resume.txt
+пас чат.txt
+
+# Виходи (генеровані файли)
+output/
+outputs/
+raw_response_*.txt
+
+# Системне
+*.Zone.Identifier
+.DS_Store
+*:Zone.Identifier

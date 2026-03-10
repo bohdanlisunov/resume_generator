@@ -1,0 +1,103 @@
+[
+  {
+    "title": "AI ML Engineer",
+    "keywords": [
+      "ai",
+      "artificial intelligence",
+      "machine learning",
+      "ml engineer",
+      "machine learning engineer",
+      "ai engineer",
+      "ml developer",
+      "data scientist",
+      "deep learning",
+
+      "python",
+      "python development",
+      "numpy",
+      "pandas",
+      "scipy",
+
+      "scikit learn",
+      "machine learning algorithms",
+      "supervised learning",
+      "unsupervised learning",
+      "reinforcement learning",
+
+      "feature engineering",
+      "feature selection",
+      "model training",
+      "model evaluation",
+      "model optimization",
+
+      "neural networks",
+      "deep neural networks",
+      "convolutional neural networks",
+      "recurrent neural networks",
+      "transformers",
+
+      "tensorflow",
+      "pytorch",
+      "keras",
+
+      "natural language processing",
+      "nlp",
+      "text processing",
+      "language models",
+      "bert",
+
+      "computer vision",
+      "image processing",
+      "object detection",
+      "image classification",
+
+      "data analysis",
+      "data science",
+      "data preprocessing",
+      "data pipelines",
+      "data engineering",
+
+      "big data",
+      "spark",
+      "hadoop",
+
+      "sql",
+      "postgresql",
+      "mongodb",
+      "data storage",
+
+      "rest api",
+      "api development",
+      "model deployment",
+
+      "mlops",
+      "model monitoring",
+      "model versioning",
+
+      "docker",
+      "containerization",
+      "kubernetes",
+
+      "aws",
+      "google cloud",
+      "azure",
+      "cloud computing",
+
+      "git",
+      "github",
+      "version control",
+
+      "unit testing",
+      "pytest",
+      "automated testing",
+
+      "ci cd",
+      "continuous integration",
+      "continuous delivery",
+
+      "agile",
+      "scrum",
+      "software development lifecycle"
+    ]
+  }
+]

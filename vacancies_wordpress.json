@@ -1,0 +1,100 @@
+[
+  {
+    "title": "WordPress Developer",
+    "keywords": [
+      "wordpress",
+      "wordpress developer",
+      "wordpress engineer",
+      "cms developer",
+      "web developer",
+      "frontend developer",
+      "backend developer",
+
+      "php",
+      "php development",
+      "object oriented php",
+      "composer",
+      "psr standards",
+
+      "wordpress theme development",
+      "wordpress plugin development",
+      "custom wordpress themes",
+      "custom wordpress plugins",
+      "wordpress customization",
+      "wordpress multisite",
+
+      "wordpress hooks",
+      "wordpress filters",
+      "wordpress actions",
+      "wp query",
+      "wordpress template hierarchy",
+      "wordpress rest api",
+
+      "woocommerce",
+      "woocommerce development",
+      "woocommerce customization",
+      "ecommerce wordpress",
+
+      "gutenberg",
+      "gutenberg blocks",
+      "wordpress block editor",
+      "elementor",
+      "wp bakery",
+
+      "html",
+      "html5",
+      "css",
+      "css3",
+      "responsive design",
+      "mobile first design",
+
+      "javascript",
+      "jquery",
+      "ajax",
+      "react",
+      "frontend integration",
+
+      "mysql",
+      "database design",
+      "sql",
+      "database optimization",
+
+      "rest api",
+      "api integration",
+      "json",
+      "xml",
+
+      "git",
+      "github",
+      "gitlab",
+      "version control",
+
+      "docker",
+      "linux",
+      "apache",
+      "nginx",
+
+      "website optimization",
+      "website performance",
+      "core web vitals",
+      "seo optimization",
+
+      "wordpress security",
+      "website security",
+      "debugging",
+      "troubleshooting",
+
+      "unit testing",
+      "phpunit",
+      "automated testing",
+
+      "ci cd",
+      "continuous integration",
+      "deployment",
+
+      "agile",
+      "scrum",
+      "software development lifecycle"
+    ]
+  }
+]
